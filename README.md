@@ -3,4 +3,5 @@
 
 预期实现星铁全自动刷地图功能
 
-手打中ing，欢迎大佬们提交自己的代码。
+终止更新，因为隔壁做的更好。
+仓库地址：https://github.com/Starry-Wind/Honkai-Star-Rail
